@@ -1,0 +1,47 @@
+body {
+  font-family: 'Muli', sans-serif;
+  font-weight: 300;
+}
+#root {
+  width: 600px;
+  margin: 0 auto;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header h1 {
+  background-color: #fff;
+  padding: 20px;
+  color: rgba(50, 210, 50, 1);
+  text-align: center;
+}
+
+.App-title {
+  font-size: 1.75em;
+  font-weight: 300;
+}
+
+.container {
+  padding: 20px;
+  margin: 50px 0;
+  width: 100%;
+  float: left;
+}
+
+.Counter .btn{
+  padding: 0 20px;
+  font-size: 32px;
+  width: 60px;
+}
+
+.btn {
+  display: inline;
+  margin: 10px;
+  font-weight: lighter;
+}
